@@ -1,15 +1,16 @@
-# React Native Technical Test App
 
-## Bienvenida 👋
-¡Bienvenido a la prueba técnica! Este proyecto está diseñado para evaluar tus habilidades con React Native, TypeScript y las buenas prácticas de desarrollo. Asegúrate de leer detenidamente las instrucciones y requisitos antes de comenzar.
 
----
+
+https://github.com/user-attachments/assets/c046f935-5eb7-4734-b875-72182fcc520b
+
+
 
 ## Descripción del Proyecto
 Esta aplicación debe cumplir con los siguientes objetivos:
 - Construir una aplicación con React Native y TypeScript.
 - Integrar al menos una API externa de tu elección.
 - Implementar pantallas clave que incluyan funcionalidades solicitadas.
+- Aplicar un sistemad de manejo de estados como Redux, Zustand o React Context.
 - Aplicar buenas prácticas de desarrollo, optimización de rendimiento, y patrones de arquitectura.
 
 ---
